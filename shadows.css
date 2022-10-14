@@ -1,0 +1,6 @@
+
+:root {
+    --shadow16dpUmbra: 0 16px 24px 2px rgba(0,0,0,0.14);  
+    --shadow16dpAmbient: 0 8px 10px 0 rgba(0,0,0,0.2);  
+    --shadow16dpPenumbra: 0 6px 30px 5px rgba(0,0,0,0.12);  
+}
